@@ -1,0 +1,36 @@
+GADS 2020-Project Phase
+Timeline: 24th September 2020 to 15th October 2020
+
+Completed Labs
+
+1. Getting stated with Cloud Marketplace
+2. Getting stated with compute Engine
+3. Getting stated with cloud storage and cloud SQL
+4. Getting stated with kubernetes engine(GKE)
+5. Getting stated with app engine
+6. Getting stated with deploymet manager and cloud monitoring
+7. Getting stated with Bigquery
+8. GCP Cloud Console and Cloud Shell
+9. Infrastrucuture Preview 
+10. VPC Networking
+11. Implement Private Google Access and Cloud NAT 
+12. Creating Virtual Machines
+13. Working with Virtual Machines
+14. Cloud IAM 
+15. Cloud Storage
+16. Implementing Cloud SQL
+17. Examining Billing data with BigQuery 
+18. Resource Monitoring
+19. Error Reporting and Debugging
+20. Virtual Private Networks(VPN) 
+21. Configuring an HTTP Load Balancer with Autoscaling 
+22. Configuring an Internal Load Balancer
+23. Automating the Deployment of infrastructure using Deployment Manager
+24. Automating the Deployment of infrastructure using Terraform
+
+
+
+
+
+
+
