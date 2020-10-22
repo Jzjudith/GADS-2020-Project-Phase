@@ -1,5 +1,5 @@
 GADS 2020-Project Phase
-Timeline: 24th September 2020 to 15th October 2020
+Timeline: 24th September 2020 to  October 2020
 
 Completed Labs
 
@@ -27,6 +27,9 @@ Completed Labs
 22. Configuring an Internal Load Balancer
 23. Automating the Deployment of infrastructure using Deployment Manager
 24. Automating the Deployment of infrastructure using Terraform
+25. Building DevOps Pipeline
+26. Deploying Apps to Google Cloud
+27. Monitoring Apllications in Google Cloud
 
 
 
